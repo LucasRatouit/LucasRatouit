@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying to become a<br>FullStack JS web developer.<br>-🌱 I’m currently learning Next.js and TypeScript.<br>-💬 About me: I am currently looking for an apprenticeship contract to complete my training.
+- I have just completed in formation at the Wild Code School.<br>- I’m currently learning Nest.js.
 
 
 ## 🌐 Socials:
