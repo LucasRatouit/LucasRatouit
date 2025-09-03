@@ -1,5 +1,6 @@
 # 💫 About Me:
-- I have just completed in formation at the Wild Code School.<br> - I’m currently learning Nest.js.
+- I have just completed in formation at the Wild Code School.
+- I’m currently learning Nest.js.
 
 
 ## 🌐 Socials:
